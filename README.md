@@ -10,7 +10,7 @@ Total Users: 100K
 Average Age: 41.03
 
 [View My Project](https://drive.google.com/file/d/1CJ2yoxpZof-mD3XWIiCQIVdOgYevOoy1/view?usp=sharing)
-![Dashboard](dashboard1.png)
+![Dashboard](images/dashboard1.png)
 ![Dashboard](dashboard2.png)
 ![Dashboard](dashboard3.png)
 
