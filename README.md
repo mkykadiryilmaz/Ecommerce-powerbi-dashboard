@@ -35,10 +35,10 @@ Products in distribution centers should be swapped based on which region has the
 
 ## Tools & Technologies
 
-Big Query
-Power BI
-DAX
-CSV / Kaggle Dataset
+* Big Query
+* Power BI
+* DAX
+* CSV / Kaggle Dataset
 
 ---
 
