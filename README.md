@@ -10,9 +10,12 @@ Total Users: 100K
 Average Age: 41.03
 
 [View My Project](https://drive.google.com/file/d/1CJ2yoxpZof-mD3XWIiCQIVdOgYevOoy1/view?usp=sharing)
+
 ![Dashboard](images/dashboard1.png)
-![Dashboard](dashboard2.png)
-![Dashboard](dashboard3.png)
+
+![Dashboard](images/dashboard2.png)
+
+![Dashboard](images/dashboard3.png)
 
 Key Findings
 Advertising and campaigns should be implemented to attract the middle-aged group to the market. Products targeting this age group should be highlighted.
