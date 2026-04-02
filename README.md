@@ -3,7 +3,7 @@ This project analyzes an e-commerce dataset to uncover insights related to sales
 
 ---
 
-##Key KPIs
+## Key KPIs
 
 Average Sale Price: $59
 Revenue: $10.73M
@@ -22,7 +22,7 @@ Average Age: 41.03
 
 ---
 
-##Key Findings
+## Key Findings
 
 Advertising and campaigns should be implemented to attract the middle-aged group to the market. Products targeting this age group should be highlighted.
 The product range suitable for young people should be expanded. This plan should be followed by the elderly as a secondary target.
@@ -33,7 +33,7 @@ Products in distribution centers should be swapped based on which region has the
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 
 Big Query
 Power BI
@@ -42,6 +42,6 @@ CSV / Kaggle Dataset
 
 ---
 
-##Sources
+## Sources
 
 [Data Source](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset)
